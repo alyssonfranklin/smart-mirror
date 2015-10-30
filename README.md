@@ -15,6 +15,7 @@ The version running on this link has limited functionality: No Hue or Weather si
 - Raspberry Pi 2
 - USB Microphone (Or Webcam w/ microphone)
 - Monitor (with the bezel removed)
+- https://www.youtube.com/watch?v=XV5EiVHKWR0
 - Mirror Pane (aka Observation Glass)
 - Philips Hue
 
